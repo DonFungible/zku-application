@@ -9,7 +9,7 @@ Positive integer inputs. Result correct
 ![](Question8_PositiveIntegers.png)
 
 Negative integer inputs. Result underflow
-![](Question8_NegativeIntegers.png)
+![](Question8_NegativeInteger.png)
 
 Float inputs. Float not accepted, error thrown
 ![](Question8_Float.png)
